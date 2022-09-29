@@ -1,2 +1,2 @@
-# Robotic-teleoperation-with-computer-vision--Tcc
+# Robotic teleoperation with computer vision--Tcc
 Teleoperation-computer Vision - Mediapipe-Robotic
